@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('kurac App', () => {
+describe('testsite App', () => {
   let page: AppPage;
 
   beforeEach(() => {
